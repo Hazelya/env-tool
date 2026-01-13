@@ -1,0 +1,2 @@
+
+# génère .env / .env.example
