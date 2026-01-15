@@ -1,0 +1,18 @@
+DB_HOST:
+  required: true
+  type: string
+  description: Database hostname
+
+DB_PORT:
+  required: true
+  type: int
+  default: 5432
+
+DEBUG:
+  required: false
+  type: bool
+  default: false
+
+API_KEY:
+  required: true
+  type: string
