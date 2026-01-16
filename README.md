@@ -25,7 +25,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ## Usage
 
 ```
-env-tool audit .env env.schema.json
+env-tool validate .env schema.yml
 ```
 
 ## Contributing 
